@@ -1,0 +1,22 @@
+{
+  "name": "infm171",
+  "version": "1.0.0",
+  "description": "INFM171 Project",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karamanolev/INFM171.git"
+  },
+  "author": "Ivailo Karamanolev",
+  "homepage": "https://github.com/karamanolev/INFM171#readme",
+  "devDependencies": {
+    "script-loader": "^0.7.2",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "dependencies": {
+    "d3": "^4.13.0",
+    "jquery": "^3.3.1",
+    "osm-read": "^0.6.0"
+  }
+}
